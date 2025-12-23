@@ -1,2 +1,3 @@
-# Lost-in-Navigation-Detecting-Keyboard-Navigation-Accessibility-Issues-in-Web-Pages
-Anon ICST submission package
+# Keyboard Navigation Failure Detection
+
+This project encompasses the automatic detection of keyboard-based navigation issues in web pages.

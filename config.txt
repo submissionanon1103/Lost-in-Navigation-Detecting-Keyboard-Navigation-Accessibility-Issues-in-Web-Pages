@@ -1,0 +1,8 @@
+mitmproxy_folder=mitmproxy-5.3.0
+cached_subjects_location=C:\\Users\\TEST\\subject_caches
+subject_URLs_location=C:\\Users\\TEST\\subject_caches\\subject_URLs.csv
+
+#Tool output locations:
+KFG_location:C:\\Users\\TEST\\LYNX_Results\\KFFGs_perfect
+CTree_location:C:\\Users\\TEST\\LYNX_Results\\LYNX_Raw_Results\\LYNX-P
+Detection_output_location:C:\\Users\\TEST\\LYNX_Results\\LYNX_Raw_Results\\test
